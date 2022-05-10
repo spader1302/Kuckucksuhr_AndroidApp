@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Kuckucksuhr</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Settings -->
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="sync_title">Sync Title</string>
+    <string name="attachment_summary_on">Always download</string>
+    <string name="attachment_title">Attachment Title</string>
+
+    <!-- Menu Buttons -->
+
+    <string name="alarm1Text">Wecker 1</string>
+    <string name="alarm2Text">Wecker 2</string>
+    <string name="dateTimeMenuLabel">Datum und Uhrzeit</string>
+    <string name="settingsLabel">sonstige Einstellungen</string>
+    <string name="changeTimeButton">Uhrzeit manuell einstellen</string>
+    <string name="changeDateButton">Datum manuell einstellen</string>
+    <string name="dateTimeSyncText">Datum / Uhrzeit mit Systemzeit synchronisieren</string>
+    <string name="hourlyButton">Stundensignal</string>
+    <string name="nightmodeButton">Nachtmodus</string>
+    <string name="displayBrightnessButton">Displayhelligkeit einstellen</string>
+    <string name="developerOptionsButton">Entwicklereinstellungen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Settings -->
+
+</resources>
